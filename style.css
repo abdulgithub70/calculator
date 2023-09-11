@@ -1,0 +1,34 @@
+
+.text-centre{
+    text-align: center;
+    font-size: 2rem;
+    color: blue;
+    position: relative;
+    right: 8%;
+}
+.container{
+    
+    margin: auto;
+    width: 32%;
+    padding: 10px;
+}
+.row{
+    margin: 6px 0;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+.input{
+    margin: auto;
+    width: 17%;
+    height: 25px;
+    position: relative;
+    top: 6px;
+    left: 34%;
+    text-align: right;
+}
